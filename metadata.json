@@ -1,0 +1,8 @@
+{
+  "name": "ESTA Pakistan – Home & Kitchen Appliances",
+  "description": "Preserved homepage and catalogue presentation for ESTA home and kitchen appliances.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

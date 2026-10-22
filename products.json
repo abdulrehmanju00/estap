@@ -1,0 +1,550 @@
+[
+  {
+    "id": "9163",
+    "slug": "esta-1-7-liters-electric-kettle-ek-1701",
+    "name": "ESTA 1.7 Liters Electric Kettle EK-1701",
+    "price": "₨ 9,360",
+    "priceNum": 9360,
+    "sku": "00012860",
+    "categories": [
+      "electric-kettles",
+      "small-domestic-appliances",
+      "small-electronics"
+    ],
+    "primaryCategory": "electric-kettles",
+    "primaryCategoryName": "Electric Kettles",
+    "image": "./assets/EK-1701-514x514.webp",
+    "url": "/product/esta-1-7-liters-electric-kettle-ek-1701/"
+  },
+  {
+    "id": "9185",
+    "slug": "esta-4-in-1-juicer-rsa-1411",
+    "name": "ESTA 4 in 1 Juicer RSA-1411",
+    "price": "₨ 15,000",
+    "priceNum": 15000,
+    "sku": "00011842",
+    "categories": [
+      "juicers",
+      "small-domestic-appliances"
+    ],
+    "primaryCategory": "juicers",
+    "primaryCategoryName": "Juicers & Food Processors",
+    "image": "./assets/RSA-1411-514x514.webp",
+    "url": "/product/esta-4-in-1-juicer-rsa-1411/"
+  },
+  {
+    "id": "9171",
+    "slug": "esta-2-slice-sandwich-maker-sm-3000",
+    "name": "ESTA 2 Slice Sandwich Maker SM-3000",
+    "price": "₨ 15,000",
+    "priceNum": 15000,
+    "sku": "00012814",
+    "categories": [
+      "sandwich-makers",
+      "small-domestic-appliances",
+      "small-electronics"
+    ],
+    "primaryCategory": "sandwich-makers",
+    "primaryCategoryName": "Sandwich & Snack Makers",
+    "image": "./assets/SM-3000-514x514.webp",
+    "url": "/product/esta-2-slice-sandwich-maker-sm-3000/"
+  },
+  {
+    "id": "9137",
+    "slug": "esta-1000w-dry-iron-ir-110",
+    "name": "ESTA 1000W Dry Iron IR-110",
+    "price": "₨ 6,240",
+    "priceNum": 6240,
+    "sku": "ESTA-9137",
+    "categories": [
+      "irons",
+      "small-domestic-appliances",
+      "small-electronics"
+    ],
+    "primaryCategory": "irons",
+    "primaryCategoryName": "Dry & Steam Irons",
+    "image": "./assets/Dry-Iron-IR-110-Black-514x514.webp",
+    "url": "/product/esta-1000w-dry-iron-ir-110/"
+  },
+  {
+    "id": "10441",
+    "slug": "esta-1-7-liters-electric-kettle-rek-1720",
+    "name": "ESTA 1.7 Liters Electric Kettle REK-1720",
+    "price": "₨ 10,800",
+    "priceNum": 10800,
+    "sku": "00014505",
+    "categories": [
+      "electric-kettles",
+      "small-domestic-appliances"
+    ],
+    "primaryCategory": "electric-kettles",
+    "primaryCategoryName": "Electric Kettles",
+    "image": "./assets/REK-1720-Electric-Kettle.jpg.jpeg",
+    "url": "/product/esta-1-7-liters-electric-kettle-rek-1720/"
+  },
+  {
+    "id": "9135",
+    "slug": "esta-1-5-liters-blender-grinder-bl-260bg",
+    "name": "ESTA 1.5 Liters Blender Grinder BL-260BG",
+    "price": "₨ 15,000",
+    "priceNum": 15000,
+    "sku": "00013162",
+    "categories": [
+      "blender-grinders",
+      "small-domestic-appliances"
+    ],
+    "primaryCategory": "blender-grinders",
+    "primaryCategoryName": "Blenders & Grinders",
+    "image": "./assets/BL-260BG-514x514.webp",
+    "url": "/product/esta-1-5-liters-blender-grinder-bl-260bg/"
+  },
+  {
+    "id": "10442",
+    "slug": "esta-3-in-1-hand-blender-rhb-1000",
+    "name": "ESTA 3 in 1 Hand Blender RHB-1000",
+    "price": "₨ 11,400",
+    "priceNum": 11400,
+    "sku": "00014497",
+    "categories": [
+      "hand-blenders",
+      "small-domestic-appliances"
+    ],
+    "primaryCategory": "hand-blenders",
+    "primaryCategoryName": "Hand Blenders",
+    "image": "./assets/Rays-3-in-1-Hand-Blender-RHB-1000.webp",
+    "url": "/product/esta-3-in-1-hand-blender-rhb-1000/"
+  },
+  {
+    "id": "9172",
+    "slug": "esta-2-slice-sandwich-maker-sm-1002",
+    "name": "ESTA 2 Slice Sandwich Maker SM-1002",
+    "price": "₨ 6,600",
+    "priceNum": 6600,
+    "sku": "00012813",
+    "categories": [
+      "sandwich-makers",
+      "small-domestic-appliances",
+      "small-electronics"
+    ],
+    "primaryCategory": "sandwich-makers",
+    "primaryCategoryName": "Sandwich & Snack Makers",
+    "image": "./assets/SM-1002-514x514.webp",
+    "url": "/product/esta-2-slice-sandwich-maker-sm-1002/"
+  },
+  {
+    "id": "8811",
+    "slug": "esta-25-liters-built-in-grill-microwave-oven-awm-26",
+    "name": "ESTA 25 Liters Built-in Grill Microwave Oven AWM-26",
+    "price": "₨ 90,000",
+    "priceNum": 90000,
+    "sku": "ESTA-8811",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-microwaves"
+    ],
+    "primaryCategory": "built-in-microwaves",
+    "primaryCategoryName": "Built-in Microwave Ovens",
+    "image": "./assets/AWM-26.webp",
+    "url": "/product/esta-25-liters-built-in-grill-microwave-oven-awm-26/"
+  },
+  {
+    "id": "8812",
+    "slug": "esta-38-liters-built-in-combi-microwave-oven-mwo-32",
+    "name": "ESTA 38 Liters Built-in Combi Microwave Oven MWO-32",
+    "price": "₨ 213,600",
+    "priceNum": 213600,
+    "sku": "00011553",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-microwaves"
+    ],
+    "primaryCategory": "built-in-microwaves",
+    "primaryCategoryName": "Built-in Microwave Ovens",
+    "image": "./assets/MWO-32-514x514.webp",
+    "url": "/product/esta-38-liters-built-in-combi-microwave-oven-mwo-32/"
+  },
+  {
+    "id": "8813",
+    "slug": "esta-25-liters-built-in-grill-microwave-oven-meg-95b-bg",
+    "name": "ESTA 25 Liters Built-in Grill Microwave Oven MEG-95B-BG",
+    "price": "₨ 96,000",
+    "priceNum": 96000,
+    "sku": "00012748",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-microwaves"
+    ],
+    "primaryCategory": "built-in-microwaves",
+    "primaryCategoryName": "Built-in Microwave Ovens",
+    "image": "./assets/MEG-95B-BG-514x514.webp",
+    "url": "/product/esta-25-liters-built-in-grill-microwave-oven-meg-95b-bg/"
+  },
+  {
+    "id": "8814",
+    "slug": "esta-25-liters-built-in-grill-microwave-oven-meg-95b-ss",
+    "name": "ESTA 25 Liters Built-in Grill Microwave Oven MEG-95B-SS",
+    "price": "₨ 93,600",
+    "priceNum": 93600,
+    "sku": "00012749",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-microwaves"
+    ],
+    "primaryCategory": "built-in-microwaves",
+    "primaryCategoryName": "Built-in Microwave Ovens",
+    "image": "./assets/MEG-95B-SS-514x514.webp",
+    "url": "/product/esta-25-liters-built-in-grill-microwave-oven-meg-95b-ss/"
+  },
+  {
+    "id": "8810",
+    "slug": "esta-25-liters-built-in-grill-microwave-oven-awm-25",
+    "name": "ESTA 25 Liters Built-in Grill Microwave Oven AWM-25",
+    "price": "₨ 83,499",
+    "priceNum": 83499,
+    "sku": "00008486",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-microwaves"
+    ],
+    "primaryCategory": "built-in-microwaves",
+    "primaryCategoryName": "Built-in Microwave Ovens",
+    "image": "./assets/AWM-25-Silver-514x514.webp",
+    "url": "/product/esta-25-liters-built-in-grill-microwave-oven-awm-25/"
+  },
+  {
+    "id": "8827",
+    "slug": "esta-56-liters-built-in-oven-f60tix",
+    "name": "ESTA 56 Liters Built-in Oven F60TIX",
+    "price": "₨ 86,400",
+    "priceNum": 86400,
+    "sku": "00009416",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-ovens"
+    ],
+    "primaryCategory": "built-in-ovens",
+    "primaryCategoryName": "Built-in Electric Ovens",
+    "image": "./assets/F60TIX-Silver-514x514.webp",
+    "url": "/product/esta-56-liters-built-in-oven-f60tix/"
+  },
+  {
+    "id": "8831",
+    "slug": "esta-80-liters-built-in-oven-ro-10q70af",
+    "name": "ESTA 80 Liters Built-in Oven RO-10Q70AF",
+    "price": "₨ 168,000",
+    "priceNum": 168000,
+    "sku": "00012742",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-ovens"
+    ],
+    "primaryCategory": "built-in-ovens",
+    "primaryCategoryName": "Built-in Electric Ovens",
+    "image": "./assets/RO-10Q70AF-514x514.webp",
+    "url": "/product/esta-80-liters-built-in-oven-ro-10q70af/"
+  },
+  {
+    "id": "8830",
+    "slug": "esta-56-liters-built-in-oven-f86etix",
+    "name": "ESTA 56 Liters Built-in Oven F86ETIX",
+    "price": "₨ 105,000",
+    "priceNum": 105000,
+    "sku": "00003740",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-ovens"
+    ],
+    "primaryCategory": "built-in-ovens",
+    "primaryCategoryName": "Built-in Electric Ovens",
+    "image": "./assets/F86ETIX-Main-514x514.webp",
+    "url": "/product/esta-56-liters-built-in-oven-f86etix/"
+  },
+  {
+    "id": "8829",
+    "slug": "esta-70-liters-built-in-oven-40fbg-e",
+    "name": "ESTA 70 Liters Built-in Oven 40FBG-E",
+    "price": "₨ 199,800",
+    "priceNum": 199800,
+    "sku": "00011552",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-ovens"
+    ],
+    "primaryCategory": "built-in-ovens",
+    "primaryCategoryName": "Built-in Electric Ovens",
+    "image": "./assets/40FBG-E-Black-514x514.webp",
+    "url": "/product/esta-70-liters-built-in-oven-40fbg-e/"
+  },
+  {
+    "id": "8825",
+    "slug": "esta-56-liters-built-in-oven-fge2tix",
+    "name": "ESTA 56 Liters Built-in Oven FGE2TIX",
+    "price": "₨ 100,200",
+    "priceNum": 100200,
+    "sku": "00009417",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "built-in-ovens"
+    ],
+    "primaryCategory": "built-in-ovens",
+    "primaryCategoryName": "Built-in Electric Ovens",
+    "image": "./assets/FGE2TIX.jpg",
+    "url": "/product/esta-56-liters-built-in-oven-fge2tix/"
+  },
+  {
+    "id": "9059",
+    "slug": "esta-1-burner-stainless-steel-gas-kitchen-hob-3111-s1",
+    "name": "ESTA 1 Burner Stainless Steel Gas Kitchen Hob 3111-S1",
+    "price": "₨ 27,600",
+    "priceNum": 27600,
+    "sku": "00008766",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hobs"
+    ],
+    "primaryCategory": "kitchen-hobs",
+    "primaryCategoryName": "Kitchen Gas & Induction Hobs",
+    "image": "./assets/3111-S1-514x514.webp",
+    "url": "/product/esta-1-burner-stainless-steel-gas-kitchen-hob-3111-s1/"
+  },
+  {
+    "id": "9037",
+    "slug": "esta-4-burners-glass-top-gas-kitchen-hob-6314-g1",
+    "name": "ESTA 4 Burners Glass Top Gas Kitchen Hob 6314-G1",
+    "price": "₨ 40,800",
+    "priceNum": 40800,
+    "sku": "00012758",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hobs"
+    ],
+    "primaryCategory": "kitchen-hobs",
+    "primaryCategoryName": "Kitchen Gas & Induction Hobs",
+    "image": "./assets/6314-G1-514x514.webp",
+    "url": "/product/esta-4-burners-glass-top-gas-kitchen-hob-6314-g1/"
+  },
+  {
+    "id": "9035",
+    "slug": "esta-3-burners-ceramic-glass-top-gas-electric-kitchen-hob-rg-8603b",
+    "name": "ESTA 3 Burners Ceramic Glass Top Gas/Electric Kitchen Hob RG-8603B",
+    "price": "₨ 90,000",
+    "priceNum": 90000,
+    "sku": "00012744",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hobs"
+    ],
+    "primaryCategory": "kitchen-hobs",
+    "primaryCategoryName": "Kitchen Gas & Induction Hobs",
+    "image": "./assets/RGH-8603-B-514x514.webp",
+    "url": "/product/esta-3-burners-ceramic-glass-top-gas-electric-kitchen-hob-rg-8603b/"
+  },
+  {
+    "id": "9034",
+    "slug": "esta-5-burners-stainless-steel-gas-kitchen-hob-81602-ss",
+    "name": "ESTA 5 Burners Stainless Steel Gas Kitchen Hob 81602-SS",
+    "price": "₨ 49,560",
+    "priceNum": 49560,
+    "sku": "00012626",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hobs"
+    ],
+    "primaryCategory": "kitchen-hobs",
+    "primaryCategoryName": "Kitchen Gas & Induction Hobs",
+    "image": "./assets/81602SS-514x514.webp",
+    "url": "/product/esta-5-burners-stainless-steel-gas-kitchen-hob-81602-ss/"
+  },
+  {
+    "id": "9064",
+    "slug": "esta-2-burners-glass-top-gas-kitchen-hob-3112-g1",
+    "name": "ESTA 2 Burners Glass Top Gas Kitchen Hob 3112-G1",
+    "price": "₨ 31,440",
+    "priceNum": 31440,
+    "sku": "00008769",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hobs"
+    ],
+    "primaryCategory": "kitchen-hobs",
+    "primaryCategoryName": "Kitchen Gas & Induction Hobs",
+    "image": "./assets/3112-G1-514x514.webp",
+    "url": "/product/esta-2-burners-glass-top-gas-kitchen-hob-3112-g1/"
+  },
+  {
+    "id": "9062",
+    "slug": "esta-2-burners-stainless-steel-gas-kitchen-hob-3112-s1",
+    "name": "ESTA 2 Burners Stainless Steel Gas Kitchen Hob 3112-S1",
+    "price": "₨ 30,000",
+    "priceNum": 30000,
+    "sku": "00008768",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hobs"
+    ],
+    "primaryCategory": "kitchen-hobs",
+    "primaryCategoryName": "Kitchen Gas & Induction Hobs",
+    "image": "./assets/3112-S-514x514.webp",
+    "url": "/product/esta-2-burners-stainless-steel-gas-kitchen-hob-3112-s1/"
+  },
+  {
+    "id": "9061",
+    "slug": "esta-1-burner-glass-top-gas-kitchen-hob-3111-g1",
+    "name": "ESTA 1 Burner Glass Top Gas Kitchen Hob 3111-G1",
+    "price": "₨ 29,400",
+    "priceNum": 29400,
+    "sku": "00008767",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hobs"
+    ],
+    "primaryCategory": "kitchen-hobs",
+    "primaryCategoryName": "Kitchen Gas & Induction Hobs",
+    "image": "./assets/3111-G1-514x514.webp",
+    "url": "/product/esta-1-burner-glass-top-gas-kitchen-hob-3111-g1/"
+  },
+  {
+    "id": "9060",
+    "slug": "esta-4-burners-stainless-steel-gas-kitchen-hob-6354-s1",
+    "name": "ESTA 4 Burners Stainless Steel Gas Kitchen Hob 6354-S1",
+    "price": "₨ 39,000",
+    "priceNum": 39000,
+    "sku": "00012759",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hobs"
+    ],
+    "primaryCategory": "kitchen-hobs",
+    "primaryCategoryName": "Kitchen Gas & Induction Hobs",
+    "image": "./assets/6354-S1-514x514.webp",
+    "url": "/product/esta-4-burners-stainless-steel-gas-kitchen-hob-6354-s1/"
+  },
+  {
+    "id": "9597",
+    "slug": "esta-90cm-wall-mounted-kitchen-hood-108qa90-%d1%82",
+    "name": "ESTA 90cm Wall Mounted Kitchen Hood 108QA90-Т",
+    "price": "₨ 90,600",
+    "priceNum": 90600,
+    "sku": "00012616",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hoods"
+    ],
+    "primaryCategory": "kitchen-hoods",
+    "primaryCategoryName": "Kitchen Range & Chimney Hoods",
+    "image": "./assets/108QA90-T-514x514.webp",
+    "url": "/product/esta-90cm-wall-mounted-kitchen-hood-108qa90-%d1%82/"
+  },
+  {
+    "id": "9639",
+    "slug": "esta-60cm-wall-mounted-kitchen-hood-rkh-6006cb",
+    "name": "ESTA 60cm Wall Mounted Kitchen Hood RKH-6006CB",
+    "price": "₨ 38,499",
+    "priceNum": 38499,
+    "sku": "00010029",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hoods"
+    ],
+    "primaryCategory": "kitchen-hoods",
+    "primaryCategoryName": "Kitchen Range & Chimney Hoods",
+    "image": "./assets/RKH-6006CB-514x514.webp",
+    "url": "/product/esta-60cm-wall-mounted-kitchen-hood-rkh-6006cb/"
+  },
+  {
+    "id": "9606",
+    "slug": "esta-90cm-wall-mounted-kitchen-hood-hcf-22",
+    "name": "ESTA 90cm Wall Mounted Kitchen Hood HCF-22",
+    "price": "₨ 114,000",
+    "priceNum": 114000,
+    "sku": "00003845",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hoods"
+    ],
+    "primaryCategory": "kitchen-hoods",
+    "primaryCategoryName": "Kitchen Range & Chimney Hoods",
+    "image": "./assets/Rays-90cm-Wall-Mounted-Kitchen-Hood-HCF-22.webp",
+    "url": "/product/esta-90cm-wall-mounted-kitchen-hood-hcf-22/"
+  },
+  {
+    "id": "9605",
+    "slug": "esta-60cm-wall-mounted-kitchen-hood-6160-p1-black",
+    "name": "ESTA 60cm Wall Mounted Kitchen Hood 6160-P1 Black",
+    "price": "₨ 53,400",
+    "priceNum": 53400,
+    "sku": "00008819",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hoods"
+    ],
+    "primaryCategory": "kitchen-hoods",
+    "primaryCategoryName": "Kitchen Range & Chimney Hoods",
+    "image": "./assets/6160P1-Black-514x514.webp",
+    "url": "/product/esta-60cm-wall-mounted-kitchen-hood-6160-p1-black/"
+  },
+  {
+    "id": "10264",
+    "slug": "esta-90cm-island-kitchen-hood-ms-94",
+    "name": "ESTA 90cm Island Kitchen Hood MS-94",
+    "price": "₨ 147,000",
+    "priceNum": 147000,
+    "sku": "00006469",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hoods"
+    ],
+    "primaryCategory": "kitchen-hoods",
+    "primaryCategoryName": "Kitchen Range & Chimney Hoods",
+    "image": "./assets/MS-94_-514x514.webp",
+    "url": "/product/esta-90cm-island-kitchen-hood-ms-94/"
+  },
+  {
+    "id": "10246",
+    "slug": "esta-90cm-island-kitchen-hood-105ja90-t",
+    "name": "ESTA 90cm Island Kitchen Hood 105JA90-T",
+    "price": "₨ 146,400",
+    "priceNum": 146400,
+    "sku": "00012612",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hoods"
+    ],
+    "primaryCategory": "kitchen-hoods",
+    "primaryCategoryName": "Kitchen Range & Chimney Hoods",
+    "image": "./assets/105JA90-T-514x514.webp",
+    "url": "/product/esta-90cm-island-kitchen-hood-105ja90-t/"
+  },
+  {
+    "id": "10243",
+    "slug": "esta-90cm-island-kitchen-hood-8490",
+    "name": "ESTA 90cm Island Kitchen Hood 8490",
+    "price": "₨ 141,600",
+    "priceNum": 141600,
+    "sku": "00008689",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hoods"
+    ],
+    "primaryCategory": "kitchen-hoods",
+    "primaryCategoryName": "Kitchen Range & Chimney Hoods",
+    "image": "./assets/8490-514x514.webp",
+    "url": "/product/esta-90cm-island-kitchen-hood-8490/"
+  },
+  {
+    "id": "10241",
+    "slug": "esta-90cm-wall-mounted-kitchen-hood-rkh-9006cb",
+    "name": "ESTA 90cm Wall Mounted Kitchen Hood RKH-9006CB",
+    "price": "₨ 38,999",
+    "priceNum": 38999,
+    "sku": "00013415",
+    "categories": [
+      "built-in-kitchen-appliances",
+      "kitchen-hoods"
+    ],
+    "primaryCategory": "kitchen-hoods",
+    "primaryCategoryName": "Kitchen Range & Chimney Hoods",
+    "image": "./assets/RKH-9006CB-514x514.webp",
+    "url": "/product/esta-90cm-wall-mounted-kitchen-hood-rkh-9006cb/"
+  }
+]
